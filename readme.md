@@ -7,6 +7,7 @@ My name is Jailson and I will tell you a brief about me and my skills!
 - The Nature Conservancy - Geospatial Analyst (Python, Google Earth Engine, JavaScript, ArcGIS, PostgreSQL/PostGIS)
 - Techlead IT Solutions - Fullstack Developer (Java, PHP, NodeJS, Oracle)
 - IMAZON - Data Scientist (Python, JavaScript, GEE, GCP, gdal, Tensorflow, Pytorch, VueJS, Mapbox)
+- TRASE/SEI - Data Scientist
 
 ## 🌱 I am currently learning data engineering pipelines
 - Apache Airflow
